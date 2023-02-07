@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    border-radius: 5%;
+    width: 85%;
+  }
+
+  .fas{
+    color:rgb(16, 68, 68);
+  }
+
+  .fa-solid{
+    color:rgb(16, 68, 68);
+  }
+
+  .fa-brands{
+    color:rgb(16, 68, 68);
+
+  }
